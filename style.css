@@ -1,0 +1,34 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: lavenderblush;
+}
+.heading{
+    background-color: lightcyan;
+    color:crimson;
+}
+.heading p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: black;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: 200;
+}
+.maindiv button{
+width: 150px;
+margin-top: 30px;
+font-weight: 300;
+letter-spacing: 5px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.footer{
+    position: fixed;
+    color: rgb(255, 181, 159);
+    background-color: lightgoldenrodyellow;
+    bottom:0;
+    font-size: 18px;
+    width:100%;
+    text-align: center;
+    line-height: 3;
+    text-shadow: 5px 5px 5px rgb(202, 89, 212);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
